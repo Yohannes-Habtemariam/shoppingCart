@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Lato:wght@900&family=Lobster+Two:wght@700&family=Maven+Pro:wght@500&family=Roboto+Mono:wght@700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-container {
+  background: #e6e6e6;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  height: 4rem;
+
+  .header-title {
+    font-family: 'Lobster Two';
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #000;
+
+    & a {
+        color: #000;
+        text-decoration: none;
+    }
+  }
+}
+
+.link-items {
+  list-style: none;
+  font-family: 'Lobster Two';
+    font-size: 1.5rem;
+
+  & a {
+    color: blue;
+    text-decoration: none;
+    font-weight: 600;
+    cursor: pointer;
+  }
+
+    & a:hover {
+        color: red;
+    }
+}

@@ -1,0 +1,54 @@
+.aside-section-container {
+  width: 90%;
+  margin: 1rem auto;
+  padding: 1rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 0 1px;
+  background-color: #e6e6fa;
+}
+
+.your-cart {
+  padding: 1rem;
+}
+
+.cart-item-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.add-remove-buttons button {
+  margin-left: 0.5rem;
+  padding: 0 0.25rem;
+}
+
+.item-price,
+.tax-charge,
+.shipping-cost,
+.total-price {
+  display: flex;
+  justify-content: space-between;
+  line-height: 1.5rem;
+}
+
+.cartItem-name {
+  font-size: 1.3rem;
+  font-weight: 700;
+}
+
+.total-price {
+  font-size: 1.5rem;
+  color: green;
+  font-weight: 700;
+}
+
+.item-price {
+  margin-top: 1rem;
+}
+
+.item-delivery-container {
+  padding: 1rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 0 1px;
+  background-color: #e6e6fa;
+  margin-top: 2rem;
+}

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.15e68c97.css",
+    "main.js": "./static/js/main.2fec80f8.js",
+    "static/media/desktop.jpg": "./static/media/desktop.f15e02b191469ea049fb.jpg",
+    "static/media/carFamily.jpg": "./static/media/carFamily.cc97666e36b2e42e8753.jpg",
+    "static/media/carMountain.jpg": "./static/media/carMountain.4667e35710b33469a966.jpg",
+    "static/media/computers.jpg": "./static/media/computers.1033ac26f909eeeed313.jpg",
+    "static/media/youthShoe.jpg": "./static/media/youthShoe.c39d6513b43a6456905d.jpg",
+    "static/media/womenShoe.jpg": "./static/media/womenShoe.c6bd2882ec4fff58594f.jpg",
+    "static/media/carLuxury.jpg": "./static/media/carLuxury.85c46d44551e327a3748.jpg",
+    "static/media/laptop.jpg": "./static/media/laptop.3f9014eff5afc1a73aef.jpg",
+    "static/media/sportShoe.jpg": "./static/media/sportShoe.55cf66f1b164e0e0105d.jpg",
+    "index.html": "./index.html",
+    "main.15e68c97.css.map": "./static/css/main.15e68c97.css.map",
+    "main.2fec80f8.js.map": "./static/js/main.2fec80f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e68c97.css",
+    "static/js/main.2fec80f8.js"
+  ]
+}
